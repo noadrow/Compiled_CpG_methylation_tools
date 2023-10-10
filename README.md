@@ -2,8 +2,7 @@
 Unfortunately, I cannot currently upload the compiled version and the original dataset that has been used. 
 However, you can compile it yourself using PyInstaller. 
 Detailed descriptions are available in the "installation_protocol.txt" file.
-
-Currently, there are three scripts:
+![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/pyinstaller.gif?raw=true)
 
 1) Id_to_bed:
    - Input 1: CpGs ID list
