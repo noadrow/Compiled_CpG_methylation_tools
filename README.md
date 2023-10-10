@@ -38,3 +38,8 @@ Detailed descriptions are available in the "installation_protocol.txt" file.
 
 ### using json log configuration
 ![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/METH_TO_AGE_json.gif?raw=true)
+
+3) convert_to_pickle_with_gui:
+   - Input1: A csv table you wish to convert
+   - Input2: folder location to save the converted file 
+   - Output: pickle file formated of the table 
