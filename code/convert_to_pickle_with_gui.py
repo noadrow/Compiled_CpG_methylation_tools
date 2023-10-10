@@ -41,5 +41,5 @@ def load_pickle_to_df():
     file.close()
     return df
 
-#convert_to_pickle_with_gui()
-load_pickle_to_df()
+convert_to_pickle_with_gui()
+#load_pickle_to_df()
