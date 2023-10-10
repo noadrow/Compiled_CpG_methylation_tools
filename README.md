@@ -1,6 +1,7 @@
 # NOTE:
 unfourtnly currently i cannot upload the complied vesion and the original dataset that has been used 
-but you can complie it yourself using pyinstall, description are avialable 
+but you can complie it yourself using pyinstall.
+description are avialable in installation_protocol.txt file
 
 corrently there is 3 scripts:
 1) Id_to_bed
