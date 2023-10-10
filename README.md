@@ -12,7 +12,7 @@ Currently, there are three scripts:
    - Output: Bed file for those CpG sites.
    
 ## usage example converting horvarth CpG sites to a bed file
-[![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/ID_TO_%20BED.gif?raw=true)]
+![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/ID_TO_%20BED.gif?raw=true)
 
 2) graph_dis_by_id_with_GUI:
    - Input1: Methylation dataset
@@ -32,7 +32,7 @@ Currently, there are three scripts:
      - Blue dots for males.
      - json log config file for repeating runs
 ### manual configuration
-[![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/MHET_TO_AGE.gif?raw=true)]
+![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/MHET_TO_AGE.gif?raw=true)
 
 ### using json log configuration
-
+![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/METH_TO_AGE_json.gif?raw=true)
