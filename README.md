@@ -8,6 +8,7 @@ Currently, there are three scripts:
 1) Id_to_bed:
    - Input 1: CpGs ID list
    - Input 2: Length of extending sequence from each side of the CpG site
+   - input 3: bed CpG reference file
    - Output: Bed file for those CpG sites.
 
 2) graph_dis_by_id_with_GUI:
