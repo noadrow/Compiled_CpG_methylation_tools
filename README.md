@@ -22,6 +22,9 @@ Currently, there are three scripts:
      beta-values across samples.
      The Y-axis represents frequency,
      The X-axis represents beta-value range (0.0).
+   - counter: you can label the CpG sites for QC
+## Example of plotting beta-distribution for group of CpG sites 
+![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/DIS_PLOT.gif?raw=true)
 
 3) graph_by_cg_and_age_with_GUI:
    - Input: Info dataset, methylation dataset, and CpG list
