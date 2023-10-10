@@ -10,6 +10,7 @@ Currently, there are three scripts:
    - Input 2: Length of extending sequence from each side of the CpG site
    - input 3: bed CpG reference file
    - Output: Bed file for those CpG sites.
+[![Demo CountPages alpha](https://github.com/noadrow/Compiled_CpG_methylation_tools/blob/main/Gifs/ID_TO_%20BED.gif?raw=true)]
 
 2) graph_dis_by_id_with_GUI:
    - Input1: Methylation dataset
